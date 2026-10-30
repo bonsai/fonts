@@ -1,0 +1,15 @@
+schema_version: "1.0"
+kind: "repository"
+id: "fonts"
+name: "fonts"
+description: "作業ツリーが空のリポジトリ（.git のみ。18ファイルはすべて .git 内）。checkout されていない。"
+loadable: false
+status: "declared_no_SKILL_md"
+repository: "https://github.com/bonsai/fonts.git"
+languages: []
+entrypoints: []
+nested_skills: []
+files_excl_git: 0
+bytes_excl_git: 0
+notes: "Lives under skills/ but has no SKILL.md, so opencode does not load it. Declared here for inventory; add SKILL.md to promote it."
+generated_by: "soubi/inventory"
